@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Yup It's Me!
+
+Programming Student, Former Data Analyst, Applied Physics/Materials Science Education
 
 You can use the [editor on GitHub](https://github.com/letsago/letsago.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[80 Points UI](eightypoints.yupatrick.com) and ![Roomba Simulation](https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FRoomba%2FREADME.md&version=GBmaster)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
