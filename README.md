@@ -2,9 +2,35 @@
 
 Programming Student, Former Data Analyst, Applied Physics/Materials Science Education
 
+## Personal Projects
+
+### My Roomba
+
+[Roomba Simulation](https://media.giphy.com/media/KWgPvqD18tK4Nvyfda/giphy.gif)
+
+### Any Nearby Movie Showings?
+
+[Find Movie Showings in Nearby AMC Theaters](https://findfilms.yupatrick.com)
+
+### 80 Points Card Game
+
+[80 Points UI](https://eightypoints.yupatrick.com)
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/letsago/letsago.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Misc
+
 You can use the [editor on GitHub](https://github.com/letsago/letsago.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Markdown
 
@@ -25,15 +51,4 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[80 Points UI](eightypoints.yupatrick.com) and ![Roomba Simulation](https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FRoomba%2FREADME.md&version=GBmaster)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/letsago/letsago.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
