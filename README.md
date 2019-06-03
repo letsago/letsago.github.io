@@ -1,36 +1,32 @@
 ## Yup It's Me!
 
-Programming Student, Former Data Analyst, Applied Physics/Materials Science Education
+I'm currently a software engineering intern at Hyperspace XR in Seattle, WA. I learned software development through guided self-study and the personal projects I completed below. I'm a former data analyst with an applied physics/materials science educational background. In my free time, I like to toy around with ideas of storytelling via visual media (aka I like watching films and online videos). 
+
+One of my biggest hobbies is to create videos. Check some out on my [YouTube channel!](https://www.youtube.com/user/WoodOfTheSher)
 
 ## Personal Projects
 
-### My Roomba
+#### Roomba Simulation
 
-[Roomba Simulation](https://media.giphy.com/media/KWgPvqD18tK4Nvyfda/giphy.gif)
+I designed simulation environments with test handling, developed framework for virtual hardware to accommodate Roomba battery, motion, cleaning, and sensing, and lastly optimized the AI using variation of Dijkstra's graph traversal algorithm. All code was developed using C++. For further reference, click [here](https://github.com/letsago/Roomba/blob/master/Roomba/README.md) for the README file.
 
-### Any Nearby Movie Showings?
+![alt_text](https://media.giphy.com/media/KWgPvqD18tK4Nvyfda/giphy.gif)
+
+#### Any Nearby Movie Showings?
+
+I designed the frontend and backend to allow basic and advanced searches with minimal page loading, built and tested web scrapers that extract showing and theater data from AMC and movie data from Rotten Tomatoes, and developed database infrastructure to store all relevant movie, theater, and showing web scraped data. For further reference, click [here](https://github.com/letsago/FindFilms/blob/master/FindFilms/README.md) for the README file.
 
 [Find Movie Showings in Nearby AMC Theaters](https://findfilms.yupatrick.com)
 
-### 80 Points Card Game
+#### 80 Points Card Game
 
-[80 Points UI](https://eightypoints.yupatrick.com)
+I managed and assigned project tasks for a three person collaboration, designed and tested algorithms to handle valid card configurations, added frontend features to prompt in-game error notifications, and added scoring logic to resolve the end of rounds within games. For further reference, click [here](https://github.com/letsago/80Points/blob/master/README.md) for the README file.
 
-### Jekyll Themes
+[Play 80 Points](https://eightypoints.yupatrick.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/letsago/letsago.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contact Info
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-### Misc
-
-You can use the [editor on GitHub](https://github.com/letsago/letsago.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To get in touch, feel free to email me at <patrick.ao.yu@gmail.com>.
 
 ### Markdown
 
