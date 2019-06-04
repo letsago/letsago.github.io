@@ -1,3 +1,12 @@
 theme: jekyll-theme-cayman
 title: Welcome to Patrick Yu's homepage!
 description: Aspiring Software Developer, Former Data Analyst, Physics Background
+avatar: "/home/pyu/Documents/personal_pic.jpg"
+
+social-network-links:
+  rss: true
+  email: "patrick.ao.yu@gmail.com"
+  github: letsago
+  linkedin: patyu
+  youtube: user/WoodOfTheSher
+  telephone: +19367180516
