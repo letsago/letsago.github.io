@@ -1,8 +1,8 @@
 ## Yup It's Me!
 
-I'm currently a software engineering intern at Hyperspace XR in Seattle, WA. I learned software development through guided self-study and the personal projects I completed below. I'm a former data analyst with an applied physics/materials science educational background. In my free time, I like to toy around with ideas of storytelling via visual media (aka I like watching films and online videos). 
+I'm currently a software engineering intern at Hyperspace XR in Seattle, WA. I'm a former data analyst with an applied physics/materials science educational background. I learned software development through guided self-study and the personal projects I completed below. For more info on my projects, check out my [Github!](https://www.github.com/letsago)
 
-One of my biggest hobbies is to create videos. Check some out on my [YouTube channel!](https://www.youtube.com/user/WoodOfTheSher)
+In my free time, I like to toy around with ideas of storytelling via visual media (aka I like watching films and online videos). One of my biggest hobbies is to create videos. Check some out on my [YouTube channel!](https://www.youtube.com/user/WoodOfTheSher)
 
 ## Personal Projects
 
@@ -27,24 +27,3 @@ I managed and assigned project tasks for a three person collaboration, designed 
 ## Contact Info
 
 To get in touch, feel free to email me at <patrick.ao.yu@gmail.com>.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
