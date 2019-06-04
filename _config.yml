@@ -3,6 +3,9 @@ title: Welcome to Patrick Yu's homepage!
 description: Aspiring Software Developer, Former Data Analyst, Physics Background
 avatar: "/home/pyu/Documents/personal_pic.jpg"
 
+author:
+  name: Patrick Yu
+
 social-network-links:
   rss: true
   email: "patrick.ao.yu@gmail.com"
