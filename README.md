@@ -1,6 +1,6 @@
 ## Yup It's Me!
 
-I'm currently a software engineering intern at Hyperspace XR in Seattle, WA. I'm a former data analyst with an applied physics/materials science educational background. I learned software development through guided self-study and the personal projects I completed below. For more info on my projects, check out my [Github!](https://www.github.com/letsago)
+I'm currently a software engineering intern at [Hyperspace XR](https://www.hyperspacexr.com/) where I work to make our virtual reality experiences more immersive. I'm a former data analyst with an applied physics/materials science educational background. I learned software development through guided self-study and the personal projects I completed below. For more info on my projects, check out my [Github!](https://www.github.com/letsago)
 
 In my free time, I like to toy around with ideas of storytelling via visual media (aka I like watching films and online videos). One of my biggest hobbies is to create videos. Check some out on my [YouTube channel!](https://www.youtube.com/user/WoodOfTheSher)
 
@@ -8,22 +8,18 @@ In my free time, I like to toy around with ideas of storytelling via visual medi
 
 #### Roomba Simulation
 
-I designed simulation environments with test handling, developed framework for virtual hardware to accommodate Roomba battery, motion, cleaning, and sensing, and lastly optimized the AI using variation of Dijkstra's graph traversal algorithm. All code was developed using C++. For further reference, click [here](https://github.com/letsago/Roomba/blob/master/Roomba/README.md) for the README file.
+To test my knowledge of data structures, I decided to build a virtual robot that traverses and cleans any rooms. Check out the image below to see the AI in action. All code was developed using C++. For further reference, click [here](https://github.com/letsago/Roomba/blob/master/Roomba/README.md) for the project's README file.
 
 ![alt_text](https://media.giphy.com/media/KWgPvqD18tK4Nvyfda/giphy.gif)
 
 #### Any Nearby Movie Showings?
 
-I designed the frontend and backend to allow basic and advanced searches with minimal page loading, built and tested web scrapers that extract showing and theater data from AMC and movie data from Rotten Tomatoes, and developed database infrastructure to store all relevant movie, theater, and showing web scraped data. For further reference, click [here](https://github.com/letsago/FindFilms/blob/master/FindFilms/README.md) for the README file.
-
-[Find Movie Showings in Nearby AMC Theaters](https://findfilms.yupatrick.com)
+As someone highly interested in films, I've wanted to build a tool that can conveniently show me what movies are playing nearby. Now, anyone can [find films](https://findfilms.yupatrick.com) in any nearby AMC theaters! For further reference, click [here](https://github.com/letsago/FindFilms/blob/master/FindFilms/README.md) for the project's README file.
 
 #### 80 Points Card Game
 
-I managed and assigned project tasks for a three person collaboration, designed and tested algorithms to handle valid card configurations, added frontend features to prompt in-game error notifications, and added scoring logic to resolve the end of rounds within games. For further reference, click [here](https://github.com/letsago/80Points/blob/master/README.md) for the README file.
-
-[Play 80 Points](https://eightypoints.yupatrick.com)
+[80 Points](https://en.wikipedia.org/wiki/Sheng_ji), also known as Tractor or Sheng Ji, is a popular Chinese card game not unlike Hearts or Spades. Back in high school and college, I often played this game with my friends but when we went our separate ways, we couldn't play with each other as often. Now, we can [play 80 Points](https://eightypoints.yupatrick.com) as often as we want! To see the codebase, click [here](https://github.com/letsago/80Points/blob/master/README.md) for the README file.
 
 ## Contact Info
 
-To get in touch, feel free to email me at <patrick.ao.yu@gmail.com>.
+To get in touch, feel free to email me at <patrick.ao.yu@gmail.com> or check out my [LinkedIn.](https://www.linkedin.com/in/patyu)
